@@ -1,22 +1,19 @@
 # Single-Page HTML CV
 
-This project is a single-page CV created using only HTML as part of the roadmap.sh HTML beginner challenge.
+This project is a single-page CV created using only HTML
+as part of the roadmap.sh beginner HTML challenge.
 
-## 🚀 Live Demo
+## 🌐 Live Project URL
 https://username.github.io/single-page-html-cv/
 
 ## 📄 Features
-- Semantic HTML structure
-- SEO meta tags
-- Open Graph tags
-- Favicon support
-- Single-page layout
-
-## 🛠️ Technologies Used
-- HTML5
+- Semantic HTML
+- SEO Meta Tags
+- Open Graph Tags
+- Favicon
 
 ## ▶️ How to Run
-Open the `index.html` file in your browser.
+Open `index.html` in your browser.
 
-## 📚 Project Source
+## 📚 Project Reference
 https://roadmap.sh/projects/single-page-cv
